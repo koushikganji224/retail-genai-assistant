@@ -1,0 +1,9 @@
+pandas
+openpyxl
+langchain
+langgraph
+openai
+streamlit
+duckdb
+faiss-cpu
+langchain-openai
